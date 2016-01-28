@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#fff</color>
+    <color name="colorBule">#33ccff</color>
+    <color name="update_background_color">#fff</color>
+    <color name="register_title_background">#50cccc</color>
+    <color name="register_title_word">#fff</color>
+    <color name="register_find_pwd">#50cccc</color>
+    <color name="login_clause">#50cccc</color>
+
+</resources>
